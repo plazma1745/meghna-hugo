@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Наша продукция
   portfolio_item:
   - name: Вибропрессы
     image: images/portfolio/portfolio-1.jpg
